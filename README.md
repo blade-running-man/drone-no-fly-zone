@@ -1,4 +1,4 @@
-# drone-no-fly-zone
+# drone-no-fly-zones
 
 ## Overview
 

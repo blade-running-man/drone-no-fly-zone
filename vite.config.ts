@@ -11,4 +11,5 @@ export default defineConfig({
       '@': resolve('src'),
     },
   },
+  base: '/drone-no-fly-zones/',
 });
